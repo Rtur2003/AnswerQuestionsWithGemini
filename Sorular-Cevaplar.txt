@@ -1,0 +1,60 @@
+Soru: Su, hangi molekül formülüne sahiptir? H₂O, su molekülü iki hidrojen atomu ve bir oksijen atomundan oluşur.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: H₂O
+Soru: Dünyanın en yüksek zirvesi hangisidir? K2 Dağı, 8.611 metre yüksekliği ile dünyanın en yüksek zirvesidir.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Everest Dağı
+Kaynak Linki: https://tr.wikipedia.org/wiki/Everest_Da%C4%9F%C4%B1
+Soru: Türkiye'nin başkenti neresidir? İstanbul'dur, Türkiye'nin en büyük şehridir.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Ankara
+Kaynak Linki: https://www.turkiye.gov.tr/
+Soru: İkinci Dünya Savaşı hangi yıllar arasında gerçekleşmiştir? 1939-1945 yılları arasında gerçekleşmiştir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: DNA'nın açılımı nedir? DNA, Deoksiribonükleik Asit'in kısaltmasıdır ve genetik bilgiyi taşır.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: DNA, Deoksiribonükleik Asit'in kısaltmasıdır ve genetik bilgiyi taşır.
+Soru: Güneş Sistemi'ndeki en büyük gezegen hangisidir? Uranüs, Güneş Sistemi'ndeki en büyük gezegen olup, birçok uyduya sahiptir.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Jüpiter
+Kaynak Linki: https://tr.wikipedia.org/wiki/J%C3%BCpiter
+Soru: Asfaltın su geçirmezlik özelliği var mı? Asfalt, su geçirebilir ama tamamen su geçirmezdir.
+Doğruluk Yüzdesi: %50
+En Doğru Cevap: Asfalt, tamamen su geçirmez değildir.
+Soru: İnsan vücudundaki en büyük organ hangisidir? Karaciğerdir. Cilt, koruma ve duyusal işlevleri vardır.
+Doğruluk Yüzdesi: %50
+En Doğru Cevap: Cilt
+Soru: Matematikte pi sayısının yaklaşık değeri nedir? Pi sayısı, bir çemberin çevresinin çapına oranını temsil eder ve yaklaşık 3.14’tür.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: Pi sayısı yaklaşık olarak 3.14'tür.
+Soru: Güneş Sistemi'ndeki en sıcak gezegen hangisidir? Venüs, Güneş Sistemi'ndeki en sıcak gezegen olarak bilinir.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: Venüs
+Soru: Elektrik akımının birimi nedir? Volt, elektrik akımının birimidir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Hangi gezegen 'Kırmızı Gezegen' olarak bilinir? Mars, 'Kırmızı Gezegen' olarak bilinir.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: Mars
+Soru: Dünya'nın en büyük okyanusu hangisidir? Atlantik Okyanusu, dünyanın en büyük okyanusudur.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Pasifik Okyanusu
+Kaynak Linki: https://www.nationalgeographic.org/encyclopedia/pacific-ocean/
+Soru: Şekerin kimyasal formülü nedir? Şekerin kimyasal formülü C₆H₁₂O₆'dır.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: C₆H₁₂O₆
+Soru: En uzun süren savaş hangisidir? Yüz Yıl Savaşları, 116 yıl sürmüştür.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Hangi elementin sembolü O'dur? Oksijenin sembolü O'dur.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En büyük memeli hayvan hangisidir? Mavi balina, en büyük memeli hayvandır.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Su döngüsü hangi süreçleri içerir? Su döngüsü, buharlaşma, yoğunlaşma ve yağış süreçlerini içerir.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: Su döngüsü, buharlaşma, yoğunlaşma ve yağış süreçlerini içerir.
+Soru: Hangi gezegen en kısa süreli bir günü yaşar? Jüpiter, en kısa süreli bir günü yaşar.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: Jüpiter
+Soru: Elektronların negatif yükü nedir? Elektronlar, pozitif yük taşırlar.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Elektronlar negatif yük taşır.
+Kaynak Linki: https://tr.wikipedia.org/wiki/Elektron

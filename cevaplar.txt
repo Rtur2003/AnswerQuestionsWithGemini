@@ -1,0 +1,137 @@
+Soru: Soru: Su, hangi molekül formülüne sahiptir? H₂O, su molekülü iki hidrojen atomu ve bir oksijen atomundan oluşur.
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: H₂O
+Soru: Doğruluk Yüzdesi: %100
+Doğruluk Yüzdesi: %Belirtilmedi
+En Doğru Cevap: Doğruluk yüzdesi belirtilmiş ancak soru ve cevap bulunmuyor.  Lütfen soruyu ve cevabı sağlayın ki değerlendirme yapabileyim.
+Soru: En Doğru Cevap: H₂O
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Dünyanın en yüksek zirvesi hangisidir? K2 Dağı, 8.611 metre yüksekliği ile dünyanın en yüksek zirvesidir.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Everest Dağı
+Soru: Doğruluk Yüzdesi: %0
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: Everest Dağı
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Kaynak Linki: https://tr.wikipedia.org/wiki/Everest_Da%C4%9F%C4%B1
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Türkiye'nin başkenti neresidir? İstanbul'dur, Türkiye'nin en büyük şehridir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %0
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: [Cevap yok, soru eksik]
+Soru: En Doğru Cevap: Ankara
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Kaynak Linki: https://www.turkiye.gov.tr/
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: İkinci Dünya Savaşı hangi yıllar arasında gerçekleşmiştir? 1939-1945 yılları arasında gerçekleşmiştir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: DNA'nın açılımı nedir? DNA, Deoksiribonükleik Asit'in kısaltmasıdır ve genetik bilgiyi taşır.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %100
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: DNA, Deoksiribonükleik Asit'in kısaltmasıdır ve genetik bilgiyi taşır.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Güneş Sistemi'ndeki en büyük gezegen hangisidir? Uranüs, Güneş Sistemi'ndeki en büyük gezegen olup, birçok uyduya sahiptir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %0
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: Jüpiter
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Kaynak Linki: https://tr.wikipedia.org/wiki/J%C3%BCpiter
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Asfaltın su geçirmezlik özelliği var mı? Asfalt, su geçirebilir ama tamamen su geçirmezdir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %50
+Doğruluk Yüzdesi: %50
+En Doğru Cevap: Doğruluk Yüzdesi: %50  bu bilgiyle yeterli değil.  Bir soru ve cevap verilmeden doğruluk yüzdesini değerlendirip, en doğru cevabı ve güvenilir bir kaynak linkini veremem.  Lütfen soru ve cevap seçeneklerini ekleyin.
+Soru: En Doğru Cevap: Asfalt, tamamen su geçirmez değildir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: İnsan vücudundaki en büyük organ hangisidir? Karaciğerdir. Cilt, koruma ve duyusal işlevleri vardır.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %50
+Doğruluk Yüzdesi: %50
+En Doğru Cevap: Doğruluk Yüzdesi: %50'nin yeterli olmadığını belirtiyor.  Bir soru ve cevaba ihtiyacım var ki, doğruluğunu ve eğitim seviyesine uygunluğunu değerlendirebileyim.  Lütfen soru ve cevap seçeneklerini paylaşın.
+Soru: En Doğru Cevap: Cilt
+Doğruluk Yüzdesi: %Belirtilmedi
+En Doğru Cevap: Cilt"  tek başına bir değerlendirme için yeterli değil.  Soru neydi?  Hangi eğitim seviyesiydi?  Diğer seçenekler nelerdi? Bu bilgilere ihtiyacım var.
+Soru: Soru: Matematikte pi sayısının yaklaşık değeri nedir? Pi sayısı, bir çemberin çevresinin çapına oranını temsil eder ve yaklaşık 3.14’tür.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %100
+Doğruluk Yüzdesi: %100
+En Doğru Cevap: Doğruluk Yüzdesi: %100'ün anlamı, sorunun cevabının tamamen doğru olduğudur.  Ancak, bu bilgi tek başına yeterli değil.  Hangi soruya cevap verildiğini bilmem gerekiyor.  Lütfen bana soruyu ve cevabı verin ki değerlendirme yapabileyim.
+Soru: En Doğru Cevap: Pi sayısı yaklaşık olarak 3.14'tür.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Güneş Sistemi'ndeki en sıcak gezegen hangisidir? Venüs, Güneş Sistemi'ndeki en sıcak gezegen olarak bilinir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %100
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: Venüs
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Elektrik akımının birimi nedir? Volt, elektrik akımının birimidir.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Amper
+Kaynak Linki: https://www.nist.gov/pml/owm/si-units-base-units
+Soru: Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Doğruluk Yüzdesi: %Belirtilmedi
+En Doğru Cevap: Bu, bir hata mesajıdır ve bana herhangi bir soru vermediğiniz için cevap veremem.  Bir soru verirseniz, formata uygun olarak değerlendirebilirim.
+Soru: Soru: Hangi gezegen 'Kırmızı Gezegen' olarak bilinir? Mars, 'Kırmızı Gezegen' olarak bilinir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %100
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: Mars
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Dünya'nın en büyük okyanusu hangisidir? Atlantik Okyanusu, dünyanın en büyük okyanusudur.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %0
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: Pasifik Okyanusu
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Kaynak Linki: https://www.nationalgeographic.org/encyclopedia/pacific-ocean/
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Şekerin kimyasal formülü nedir? Şekerin kimyasal formülü C₆H₁₂O₆'dır.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %100
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: C₆H₁₂O₆
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: En uzun süren savaş hangisidir? Yüz Yıl Savaşları, 116 yıl sürmüştür.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Doğruluk Yüzdesi: %Belirtilmedi
+En Doğru Cevap: Yanıt formatı sorununu anlıyorum.  Lütfen bana soruları verin, ben cevaplayayım ve sizin istediğiniz formatta yanıt vereyim.  Hata mesajı benim tarafımdan değil, kullandığım API'den kaynaklanıyor olabilir.  Size yardımcı olmak için soruları bekliyorum.
+Soru: Soru: Hangi elementin sembolü O'dur? Oksijenin sembolü O'dur.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: En büyük memeli hayvan hangisidir? Mavi balina, en büyük memeli hayvandır.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Doğruluk Yüzdesi: %Belirtilmedi
+En Doğru Cevap: Yanıt: Format uygun değil.  Sorular verilmediği için cevap değerlendirmesi yapılamaz.  Lütfen önce soruları verin.
+Soru: Soru: Su döngüsü hangi süreçleri içerir? Su döngüsü, buharlaşma, yoğunlaşma ve yağış süreçlerini içerir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %100
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: Su döngüsü, buharlaşma, yoğunlaşma ve yağış süreçlerini içerir.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Soru: Hangi gezegen en kısa süreli bir günü yaşar? Jüpiter, en kısa süreli bir günü yaşar.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Doğruluk Yüzdesi: %100
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: En Doğru Cevap: Jüpiter
+Doğruluk Yüzdesi: %Belirtilmedi
+En Doğru Cevap: Jüpiter" ifadesi bir soru olmadan anlamsızdır.  Bir soru verirseniz, değerlendirmeyi yapabilirim.
+Soru: Soru: Elektronların negatif yükü nedir? Elektronlar, pozitif yük taşırlar.
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: Elektronlar negatif yük taşırlar.
+Kaynak Linki: https://www.khanacademy.org/science/physics/electric-charge-electric-force/electric-charge/a/electric-charge
+Soru: Doğruluk Yüzdesi: %0
+Doğruluk Yüzdesi: %0
+En Doğru Cevap: [Cevap yok, soru metni eksik.]
+Soru: En Doğru Cevap: Elektronlar negatif yük taşır.
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
+Soru: Kaynak Linki: https://tr.wikipedia.org/wiki/Elektron
+Yanıt: Format uygun değil - Hata: 429 Resource has been exhausted (e.g. check quota).
