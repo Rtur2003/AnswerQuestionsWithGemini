@@ -101,7 +101,7 @@ def start_app():
             messagebox.showerror("Hata", "Lütfen bir eğitim seviyesi seçin!")
             return
 
-        genai.configure(api_key="AIzaSyDN9BEaJ2hAsbw4Gix9wY4dEANNb_obdnI")
+        genai.configure(api_key="YourAPIKey") #GET GEMINI API KEY
         model = genai.GenerativeModel("gemini-1.5-flash")
 
         chat_history = [
